@@ -30,22 +30,18 @@ _( Shopify & ecommerce expert )_
 
 #### The favourites:
 
-<sub><strong>↓ Three layout variations to compare. Pick one and I'll clean up the rest ↓</strong></sub>
-
-##### Variation 1 — Key/value, full width
-
 <table>
-  <colgroup>
-    <col width="160" />
-    <col width="700" />
-  </colgroup>
+  <tr>
+    <td><img src="./images/spacer.png" width="160" height="1" alt="" /></td>
+    <td><img src="./images/spacer.png" width="700" height="1" alt="" /></td>
+  </tr>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Movie</strong></td>
-    <td><a href="https://www.imdb.com/title/tt0129167/">The Iron Giant</a></td>
+    <td>The Iron Giant</td>
   </tr>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Game</strong></td>
-    <td><a href="https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando">Ratchet & Clank: Going Commando</a></td>
+    <td>Ratchet & Clank: Going Commando</td>
   </tr>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Console</strong></td>
@@ -53,7 +49,7 @@ _( Shopify & ecommerce expert )_
   </tr>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Anime</strong></td>
-    <td><a href="https://myanimelist.net/anime/10165/Nichijou">Nichijou</a></td>
+    <td>Nichijou</td>
   </tr>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Food</strong></td>
@@ -61,28 +57,13 @@ _( Shopify & ecommerce expert )_
   </tr>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>ꜱᴏɴɢ</strong></td>
-    <td><a href="https://www.youtube.com/watch?v=C-o8pTi6vd8&list=RDC-o8pTi6vd8&start_radio=1">Kyouran Hey Kids!!</a></td>
-  </tr>
-</table>
-
-##### Variation 2 — Three-column grid
-
-<table>
-  <tr>
-    <td align="center"><img src="./images/black-star.gif" width="16" /><br/><strong>MOVIE</strong><br/><a href="https://www.imdb.com/title/tt0129167/">The Iron Giant</a></td>
-    <td align="center"><img src="./images/black-star.gif" width="16" /><br/><strong>GAME</strong><br/><a href="https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando">Ratchet & Clank: Going Commando</a></td>
-    <td align="center"><img src="./images/black-star.gif" width="16" /><br/><strong>CONSOLE</strong><br/>Playstation 2</td>
+    <td>Kyouran Hey Kids!!</td>
   </tr>
   <tr>
-    <td align="center"><img src="./images/black-star.gif" width="16" /><br/><strong>ANIME</strong><br/><a href="https://myanimelist.net/anime/10165/Nichijou">Nichijou</a></td>
-    <td align="center"><img src="./images/black-star.gif" width="16" /><br/><strong>FOOD</strong><br/>Ice-cream</td>
-    <td align="center"><img src="./images/black-star.gif" width="16" /><br/><strong>SONG</strong><br/><a href="https://www.youtube.com/watch?v=C-o8pTi6vd8&list=RDC-o8pTi6vd8&start_radio=1">Kyouran Hey Kids!!</a></td>
+    <td><img src="./images/spacer.png" width="160" height="1" alt="" /></td>
+    <td><img src="./images/spacer.png" width="700" height="1" alt="" /></td>
   </tr>
 </table>
-
-##### Variation 3 — Badge pills
-
-[![Movie](https://img.shields.io/badge/Movie-The_Iron_Giant-2C3E50?style=flat)](https://www.imdb.com/title/tt0129167/) [![Game](https://img.shields.io/badge/Game-Ratchet_%26_Clank-3498DB?style=flat)](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando) [![Console](https://img.shields.io/badge/Console-Playstation_2-003791?style=flat)](https://en.wikipedia.org/wiki/PlayStation_2) [![Anime](https://img.shields.io/badge/Anime-Nichijou-E91E63?style=flat)](https://myanimelist.net/anime/10165/Nichijou) ![Food](https://img.shields.io/badge/Food-Ice_cream-FF9800?style=flat) [![Song](https://img.shields.io/badge/Song-Kyouran_Hey_Kids!!-9C27B0?style=flat)](https://www.youtube.com/watch?v=C-o8pTi6vd8&list=RDC-o8pTi6vd8&start_radio=1)
 
 ## ( WHAT I DO )
 _( Software engineer, problem solver )_
