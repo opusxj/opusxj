@@ -11,3 +11,10 @@ Welcome to my profile, I'm John, I go by a few names online, but for sanity's sa
 <img src="https://cataas.com/cat/gif" alt="Random Cat Meme">
 
 Below is a bunch of random things about me, some connected, some not. Feel free to have a wander, and reach out if you'd like to chat about a project, or maybe just share a food recommendation. DMs are open. Just be cool about it.
+
+<table width="100%"><tr>
+<td align="left">( WHO AM I )</td>
+<td align="right">( Shopify & ecommerce expert )</td>
+</tr></table>
+
+---
