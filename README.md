@@ -72,7 +72,8 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 🏆 League of Legends **EX-COACH**. Retired after 1 year.<br/>
 🎙️ Once ran an online radio station with 250+ daily listeners.<br/>
-💬 Built and ran two Discord communities (OVC and OLC) with 200+ members each.
+💬 Built and ran two Discord communities (OVC and OLC) with 200+ members each.<br/>
+📚 Wrote, but never published, a book called **The Creptor** at 11 years old.
 
 > _Be curious. Read widely. Try new things._
 > _What people call intelligence just boils down to curiosity._
