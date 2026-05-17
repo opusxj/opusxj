@@ -62,7 +62,7 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 🔨 Foundationally trained in carpentry, electrics, and plumbing. I'd still rather hire a professional.<br/>
 ✈️ Been to 18+ countries so far.<br/>
 🇳🇱 Spent 2+ years total in the Netherlands.<br/>
-🍦 Favourite food is ice-cream but I'm lactose intolerant.
+🍦 Although my favourite food is ice-cream, I'm lactose intolerant. We don't talk about it.
 
 ## ( WHAT I DO )
 
