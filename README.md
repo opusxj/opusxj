@@ -59,14 +59,18 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 #### Random Facts:
 
-🔨 Foundationally trained in carpentry, electrics, and plumbing. I'd still rather hire a professional.
+🔨 Foundationally trained in carpentry, electrics, and plumbing. I'd still rather hire a professional.<br/>
+✈️ Been to 18+ countries so far.<br/>
+🇳🇱 Spent 2+ years total in the Netherlands.<br/>
+🍦 Favourite food is ice-cream but I'm lactose intolerant.
 
 ## ( WHAT I DO )
 
 ## ( SIDE QUESTS )
 
 🏆 League of Legends **EX-COACH**. Retired after 1 year.<br/>
-🎙️ Once ran an online radio station with 250+ daily listeners.
+🎙️ Once ran an online radio station with 250+ daily listeners.<br/>
+💬 Built and ran two Discord communities (OVC and OLC) with 200+ members each.
 
 > _Be curious. Read widely. Try new things._
 > _What people call intelligence just boils down to curiosity._
