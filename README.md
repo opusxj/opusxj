@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.jpg" alt="PROJECT.EXE — dithered hands reaching toward each other through a retro computer window" width="100%" />
+  <img src="./images/banner.png" alt="PROJECT.EXE — dithered hands reaching toward each other through a retro computer window" width="100%" />
 </p>
 
 # Hi, I'm John
