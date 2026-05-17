@@ -32,10 +32,10 @@ _( Shopify & ecommerce expert )_
 ##### Variation 1 — Key/value, full width
 
 <table>
-  <tr>
-    <td><img src="./images/spacer.png" width="160" height="1" alt="" /></td>
-    <td><img src="./images/spacer.png" width="700" height="1" alt="" /></td>
-  </tr>
+  <colgroup>
+    <col width="160" />
+    <col width="700" />
+  </colgroup>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Movie</strong></td>
     <td><a href="https://www.imdb.com/title/tt0129167/">The Iron Giant</a></td>
