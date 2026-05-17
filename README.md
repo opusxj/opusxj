@@ -52,6 +52,10 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
     <td>Kyouran Hey Kids!!</td>
   </tr>
   <tr>
+    <td><strong>Book</strong></td>
+    <td>The Subtle Art of Not Giving a F*ck</td>
+  </tr>
+  <tr>
     <td><img src="./images/spacer.png" width="160" height="1" alt="" /></td>
     <td><img src="./images/spacer.png" width="700" height="1" alt="" /></td>
   </tr>
