@@ -25,10 +25,11 @@ _( Shopify & ecommerce expert )_
 
 #### The favourites:
 
-<img src="./images/nmsatlas.png" width="16" /> **Movie:** The Iron Giant<br/>
-<img src="./images/nmsatlas.png" width="16" /> **Game:** Ratchet & Clank<br/>
-<img src="./images/nmsatlas.png" width="16" /> **Anime:** Nichijou<br/>
-<img src="./images/nmsatlas.png" width="16" /> **Food:** Ice-cream
+<img src="./images/black-star.gif" width="16" /> **Movie:** The Iron Giant<br/>
+<img src="./images/black-star.gif" width="16" /> **Game:** Ratchet & Clank<br/>
+<img src="./images/black-star.gif" width="16" /> **Anime:** Nichijou<br/>
+<img src="./images/black-star.gif" width="16" /> **Food:** Ice-cream<br/>
+<img src="./images/black-star.gif" width="16" /> **ꜱᴏɴɢ:** Kyouran Hey Kids!!
 
 ## ( WHAT I DO )
 _( Software engineer, problem solver )_
