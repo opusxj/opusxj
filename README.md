@@ -27,9 +27,13 @@ _( Shopify & ecommerce expert )_
 
 <sub><strong>↓ Three layout variations to compare. Pick one and I'll clean up the rest ↓</strong></sub>
 
-##### Variation 1 — Two-column grid
+##### Variation 1 — Two-column grid (full width)
 
 <table>
+  <tr>
+    <td width="50%"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="450" height="1" alt="" /></td>
+    <td width="50%"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="450" height="1" alt="" /></td>
+  </tr>
   <tr>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Movie:</strong> <a href="https://www.imdb.com/title/tt0129167/">The Iron Giant</a></td>
     <td><img src="./images/black-star.gif" width="16" /> <strong>Game:</strong> <a href="https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando">Ratchet & Clank: Going Commando</a></td>
