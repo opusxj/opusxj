@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="./images/banner.png" alt="PROJECT.EXE — dithered hands reaching toward each other through a retro computer window" width="100%" />
+  <a href="https://johnborn.co.uk">
+    <img src="./images/banner.png" alt="PROJECT.EXE — dithered hands reaching toward each other through a retro computer window" width="100%" />
+  </a>
 </p>
 
 <h1>
-  <img src="./images/cat-wave.gif" alt="" width="40" /> - It's John. You found me.
+  <img src="./images/cat-wave.gif" alt="" width="40" /> It's John. You found me.
 </h1>
 
 Welcome to my profile, I'm John, I go by a few names online, but for sanity's sake, I'll stick with John. I'm a self-taught software engineer from the United Kingdom. You'll typically find me building Shopify stores, or solutions that drive my personal life forward. Currently, I'm in the process of creating a SAAS product to manage daily lives.
