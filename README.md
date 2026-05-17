@@ -92,7 +92,7 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 Every month I try to practice different skills. Not to master, but to acknowledge the art of learning. Here's a few:
 
 - [x] Mixing Music using a DAW
-- [x] Magic Tricks & Slight of Hand Shuffles
+- [x] Magic Tricks & Sleight of Hand Shuffles
 - [ ] Steam Workshop Tooling _(currently learning)_
 - [ ] Pick up Piano or Guitar
 
