@@ -26,7 +26,7 @@ _( Shopify & ecommerce expert )_
 #### The favourites:
 
 <img src="./images/black-star.gif" width="16" /> **Movie:** [The Iron Giant](https://www.imdb.com/title/tt0129167/)<br/>
-<img src="./images/black-star.gif" width="16" /> **Game:** Ratchet & Clank<br/>
+<img src="./images/black-star.gif" width="16" /> **Game:** [Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando)<br/>
 <img src="./images/black-star.gif" width="16" /> **Anime:** [Nichijou](https://myanimelist.net/anime/10165/Nichijou)<br/>
 <img src="./images/black-star.gif" width="16" /> **Food:** Ice-cream<br/>
 <img src="./images/black-star.gif" width="16" /> **ꜱᴏɴɢ:** [THE ORAL CIGARETTES「Kyouran Hey Kids!!」](https://www.youtube.com/watch?v=C-o8pTi6vd8&list=RDC-o8pTi6vd8&start_radio=1)
