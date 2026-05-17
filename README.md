@@ -18,3 +18,21 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 </tr></table>
 
 ---
+
+<br/>
+
+<table width="100%"><tr>
+<td align="left">( WHAT I DO )</td>
+<td align="right">( Software engineer, problem solver )</td>
+</tr></table>
+
+---
+
+<br/>
+
+<table width="100%"><tr>
+<td align="left">( SIDE QUESTS )</td>
+<td align="right">( Communities, creations, past lives )</td>
+</tr></table>
+
+---
