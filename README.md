@@ -14,7 +14,7 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 ###### Find me here:
 
-[![Dribbble](https://img.shields.io/badge/Dribbble-yourhandle-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/yourhandle) [![Instagram](https://img.shields.io/badge/Instagram-yourhandle-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourhandle-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle) [![GitHub](https://img.shields.io/badge/GitHub-opusxj-181717?style=flat&logo=github&logoColor=white)](https://github.com/opusxj)
+[![Dribbble](https://img.shields.io/badge/Dribbble-opusxj-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/opusxj) [![Instagram](https://img.shields.io/badge/Instagram-opusxj__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/opusxj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-opusxj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/opusxj) [![Email](https://img.shields.io/badge/Email-opusxj%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:opusxj@gmail.com) [![Personal Site](https://img.shields.io/badge/Personal_Site-johnborn.co.uk-FF7139?style=flat&logo=firefox&logoColor=white)](https://johnborn.co.uk)
 
 ## ( WHO AM I )
 _( Shopify & ecommerce expert )_
