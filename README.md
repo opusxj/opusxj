@@ -66,6 +66,8 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 ## ( WHAT I DO )
 
+🚧 _Under constructions..._
+
 ## ( SIDE QUESTS )
 
 🏆 League of Legends **EX-COACH**. Retired after 1 year.<br/>
