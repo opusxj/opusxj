@@ -12,4 +12,4 @@ Welcome to my profile, I'm John, I go by a few names online, but for sanity's sa
   <img src="https://cataas.com/cat/gif" alt="Random Cat Meme">
 </p>
 
-Below you'll find a bunch of random things about me, some related, some aren't, but feel free to have a wander, and reach out if you'd like to either discuss any projects, or perhaps you've just got some food recommendations you'd like to share, either way my DMs are open, just be cool about it.
+Below is a bunch of random things about me, some connected, some not. Feel free to have a wander, and reach out if you'd like to chat about a project, or maybe just share a food recommendation. DMs are open. Just be cool about it.
