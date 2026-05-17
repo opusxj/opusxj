@@ -3,9 +3,7 @@
 </p>
 
 <h1>
-  <img src="./images/cat-wave.gif" alt="" width="40" />
-  It's John. You found me.
-  <img src="./images/cat-wave.gif" alt="" width="40" />
+  <img src="./images/cat-wave.gif" alt="" width="40" /> - It's John. You found me.
 </h1>
 
 Self-taught software engineer based in the UK. I build software, run communities, and chase too many side projects.
