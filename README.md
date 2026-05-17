@@ -21,3 +21,12 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 <br/>
 
 <img src="./images/header-side-quests.svg" alt="SIDE QUESTS — Communities, creations, past lives" width="100%" />
+
+<br/><br/>
+
+<sub><strong>↓ Preview only: how the same header would look as a plain markdown H2 ↓</strong></sub>
+
+## ( WHO AM I )
+_( Shopify & ecommerce expert )_
+
+---
