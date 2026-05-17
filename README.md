@@ -14,7 +14,10 @@ Welcome to my profile, I'm John, I go by a few names online, but for sanity's sa
 
 Below is a bunch of random things about me, some connected, some not. Feel free to have a wander, and reach out if you'd like to chat about a project, or maybe just share a food recommendation. DMs are open. Just be cool about it.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+> _Be curious. Read widely. Try new things._
+> _What people call intelligence just boils down to curiosity._
+>
+> Aaron Swartz (2013 ~ 1986)
 
 ###### Find me here:
 
