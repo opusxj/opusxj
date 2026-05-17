@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://johnborn.co.uk">
+  <a href="https://johnborn.co.uk" target="_blank" rel="noopener noreferrer">
     <img src="./images/banner.png" alt="PROJECT.EXE — dithered hands reaching toward each other through a retro computer window" width="100%" />
   </a>
 </p>
@@ -22,6 +22,13 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 _( Shopify & ecommerce expert )_
 
 ---
+
+#### The favourites:
+
+<img src="./images/nmsatlas.png" width="16" /> **Movie:** The Iron Giant<br/>
+<img src="./images/nmsatlas.png" width="16" /> **Game:** Ratchet & Clank<br/>
+<img src="./images/nmsatlas.png" width="16" /> **Anime:** Nichijou<br/>
+<img src="./images/nmsatlas.png" width="16" /> **Food:** Ice-cream
 
 ## ( WHAT I DO )
 _( Software engineer, problem solver )_
