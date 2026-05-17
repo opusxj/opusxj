@@ -59,7 +59,7 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 #### Random Facts:
 
-- League of Legends **EX-COACH**. The wins were mine, the losses theirs.
+- League of Legends **EX-COACH**. Retired after 1 year.
 - Once ran an online radio station with 250+ daily listeners.
 - Foundationally trained in carpentry, electrics, and plumbing. I'd still rather hire a professional.
 
