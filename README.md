@@ -12,21 +12,26 @@ Welcome to my profile, I'm John, I go by a few names online, but for sanity's sa
 
 Below is a bunch of random things about me, some connected, some not. Feel free to have a wander, and reach out if you'd like to chat about a project, or maybe just share a food recommendation. DMs are open. Just be cool about it.
 
-<img src="./images/header-who-am-i.svg" alt="WHO AM I — Shopify and ecommerce expert" width="100%" />
+## ( WHO AM I )
+_( Shopify & ecommerce expert )_
 
-<br/>
+---
 
-<img src="./images/header-what-i-do.svg" alt="WHAT I DO — Software engineer, problem solver" width="100%" />
+## ( WHAT I DO )
+_( Software engineer, problem solver )_
 
-<br/>
+---
 
-<img src="./images/header-side-quests.svg" alt="SIDE QUESTS — Communities, creations, past lives" width="100%" />
+## ( SIDE QUESTS )
+_( Communities, creations, past lives )_
+
+---
 
 <br/><br/>
 
-<sub><strong>↓ Preview only: how the same header would look as a plain markdown H2 ↓</strong></sub>
+<sub><strong>↓ Preview only: how the same header would look as a markdown H3 ↓</strong></sub>
 
-## ( WHO AM I )
+### ( WHO AM I )
 _( Shopify & ecommerce expert )_
 
 ---
