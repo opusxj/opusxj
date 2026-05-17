@@ -85,6 +85,15 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
   <img src="https://placehold.co/600x600/F5F5F5/666666?text=Photo+3" width="240" alt="Placeholder photo 3" />
 </p>
 
+#### Random Skills:
+
+Every month I try to practice different skills. Not to master, but to acknowledge the art of learning. Here's a few:
+
+- [x] _[a skill you've checked off]_
+- [ ] _[a skill you're working on]_
+- [ ] _[a skill on the list]_
+- [ ] _[another for later]_
+
 > _Be curious. Read widely. Try new things._
 > _What people call intelligence just boils down to curiosity._
 >
