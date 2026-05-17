@@ -31,27 +31,27 @@ _( Shopify & ecommerce expert )_
     <td><img src="./images/spacer.png" width="700" height="1" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Movie</strong></td>
+    <td><strong>Movie</strong></td>
     <td>The Iron Giant</td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Game</strong></td>
+    <td><strong>Game</strong></td>
     <td>Ratchet & Clank: Going Commando</td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Console</strong></td>
+    <td><strong>Console</strong></td>
     <td>Playstation 2</td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Anime</strong></td>
+    <td><strong>Anime</strong></td>
     <td>Nichijou</td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Food</strong></td>
+    <td><strong>Food</strong></td>
     <td>Ice-cream</td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>ꜱᴏɴɢ</strong></td>
+    <td><strong>ꜱᴏɴɢ</strong></td>
     <td>Kyouran Hey Kids!!</td>
   </tr>
   <tr>
