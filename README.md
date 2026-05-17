@@ -79,6 +79,12 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 💬 Built and ran two Discord communities (OVC and OLC) with 200+ members each.<br/>
 📚 Wrote, but never published, a book called **The Creptor** at 11 years old.
 
+<p>
+  <img src="https://placehold.co/600x600/F5F5F5/666666?text=Photo+1" width="240" alt="Placeholder photo 1" />
+  <img src="https://placehold.co/600x600/F5F5F5/666666?text=Photo+2" width="240" alt="Placeholder photo 2" />
+  <img src="https://placehold.co/600x600/F5F5F5/666666?text=Photo+3" width="240" alt="Placeholder photo 3" />
+</p>
+
 > _Be curious. Read widely. Try new things._
 > _What people call intelligence just boils down to curiosity._
 >
