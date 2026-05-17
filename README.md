@@ -27,24 +27,36 @@ _( Shopify & ecommerce expert )_
 
 <sub><strong>↓ Three layout variations to compare. Pick one and I'll clean up the rest ↓</strong></sub>
 
-##### Variation 1 — Two-column grid (full width)
+##### Variation 1 — Key/value, full width
 
 <table>
   <tr>
-    <td width="50%"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="450" height="1" alt="" /></td>
-    <td width="50%"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="450" height="1" alt="" /></td>
+    <td><img src="./images/spacer.png" width="160" height="1" alt="" /></td>
+    <td><img src="./images/spacer.png" width="700" height="1" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Movie:</strong> <a href="https://www.imdb.com/title/tt0129167/">The Iron Giant</a></td>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Game:</strong> <a href="https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando">Ratchet & Clank: Going Commando</a></td>
+    <td><img src="./images/black-star.gif" width="16" /> <strong>Movie</strong></td>
+    <td><a href="https://www.imdb.com/title/tt0129167/">The Iron Giant</a></td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Console:</strong> Playstation 2</td>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Anime:</strong> <a href="https://myanimelist.net/anime/10165/Nichijou">Nichijou</a></td>
+    <td><img src="./images/black-star.gif" width="16" /> <strong>Game</strong></td>
+    <td><a href="https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando">Ratchet & Clank: Going Commando</a></td>
   </tr>
   <tr>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>Food:</strong> Ice-cream</td>
-    <td><img src="./images/black-star.gif" width="16" /> <strong>ꜱᴏɴɢ:</strong> <a href="https://www.youtube.com/watch?v=C-o8pTi6vd8&list=RDC-o8pTi6vd8&start_radio=1">Kyouran Hey Kids!!</a></td>
+    <td><img src="./images/black-star.gif" width="16" /> <strong>Console</strong></td>
+    <td>Playstation 2</td>
+  </tr>
+  <tr>
+    <td><img src="./images/black-star.gif" width="16" /> <strong>Anime</strong></td>
+    <td><a href="https://myanimelist.net/anime/10165/Nichijou">Nichijou</a></td>
+  </tr>
+  <tr>
+    <td><img src="./images/black-star.gif" width="16" /> <strong>Food</strong></td>
+    <td>Ice-cream</td>
+  </tr>
+  <tr>
+    <td><img src="./images/black-star.gif" width="16" /> <strong>ꜱᴏɴɢ</strong></td>
+    <td><a href="https://www.youtube.com/watch?v=C-o8pTi6vd8&list=RDC-o8pTi6vd8&start_radio=1">Kyouran Hey Kids!!</a></td>
   </tr>
 </table>
 
