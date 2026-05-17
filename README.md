@@ -23,7 +23,7 @@ _( Shopify & ecommerce expert )_
 
 ---
 
-#### The favourites:
+#### The Favourites:
 
 <table>
   <tr>
@@ -67,15 +67,6 @@ _( Software engineer, problem solver )_
 
 ## ( SIDE QUESTS )
 _( Communities, creations, past lives )_
-
----
-
-<br/><br/>
-
-<sub><strong>↓ Preview only: how the same header would look as a markdown H3 ↓</strong></sub>
-
-### ( WHO AM I )
-_( Shopify & ecommerce expert )_
 
 ---
 
