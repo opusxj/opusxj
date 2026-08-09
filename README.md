@@ -93,7 +93,7 @@ Every month I try to practice different skills. Not to master, but to acknowledg
 
 - [x] Mixing Music using a DAW
 - [x] Magic Tricks & Sleight of Hand Shuffles
-- [ ] Steam Workshop Tooling _(currently learning)_
+- [x] Steam Workshop Tooling _(currently learning)_
 - [ ] Pick up Piano or Guitar
 
 ---
