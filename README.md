@@ -89,7 +89,7 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 #### Random Skills:
 
-Every month I try to practice different skills. Not to master, but to acknowledge the art of learning. Here's a few:
+Sometimes I try to practice different skills. Not to master, but to acknowledge the art of learning, and understanding. Here's a few:
 
 - [x] Mixing Music using a DAW
 - [x] Magic Tricks & Sleight of Hand Shuffles
