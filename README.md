@@ -82,6 +82,12 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 👕 A slow-burn clothing brand idea. Alternative style, built on uniqueness and explorative styling. Quirky, weird, and fun.<br/>
 🎮 A game concept in the planning stages, destined for Steam. More on that when there's more to say.
 
+<p>
+  <img src="./images/photo-berlin.jpg" width="32%" alt="Berlin Cathedral and the TV Tower behind a hedge of autumn leaves" />
+  <img src="./images/photo-prague.jpg" width="32%" alt="St. Nicholas Church towers above market stalls in Prague's Old Town Square" />
+  <img src="./images/photo-japan.jpg" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
+</p>
+
 ## ( SIDE QUESTS )
 
 #### Past Life:
@@ -91,11 +97,6 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 💬 Built and ran two online communities (OVC and OLC) with 200+ members each.<br/>
 📚 Wrote, but never published, a book called **The Creptor** at 11 years old.
 
-<p>
-  <img src="./images/photo-berlin.jpg" width="32%" alt="Berlin Cathedral and the TV Tower behind a hedge of autumn leaves" />
-  <img src="./images/photo-prague.jpg" width="32%" alt="St. Nicholas Church towers above market stalls in Prague's Old Town Square" />
-  <img src="./images/photo-japan.jpg" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
-</p>
 <p>
   <img src="./images/photo-dunes.webp" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
   <img src="./images/photo-cars.jpg" width="32%" alt="Silver cars stacked on top of each other against a clear blue sky" />
