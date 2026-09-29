@@ -8,7 +8,7 @@
   <img src="./images/cat-wave.gif" alt="" width="40" /> It's John. You found me.
 </h1>
 
-Welcome to my profile, I'm John, I go by a few names online, but for sanity's sake, I'll stick with John. I'm a self-taught software engineer from the United Kingdom. You'll typically find me building Shopify stores, or solutions that drive my personal life forward. Currently, I'm in the process of creating a SAAS product to manage daily lives.
+Welcome to my profile, I'm John, I go by a few names online, but for sanity's sake, I'll stick with John. I'm a self-taught software engineer from the United Kingdom. You'll typically find me building Shopify stores, or solutions that drive my personal life forward. Currently, I'm building **LifeOS**, a system for managing daily life, made with the ADHD/OCD community in mind.
 
 <img src="https://cataas.com/cat/gif" alt="Random Cat Meme">
 
@@ -16,7 +16,7 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 ###### Find me here:
 
-[![Dribbble](https://img.shields.io/badge/Dribbble-opusxj-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/opusxj) [![Instagram](https://img.shields.io/badge/Instagram-opusxj__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/opusxj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-opusxj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/opusxj) [![Email](https://img.shields.io/badge/Email-opusxj%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:opusxj@gmail.com) [![Personal Site](https://img.shields.io/badge/Personal_Site-johnborn.co.uk-FF7139?style=flat&logo=firefox&logoColor=white)](https://johnborn.co.uk)
+[![Dribbble](https://img.shields.io/badge/Dribbble-opusxj-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/opusxj) [![Instagram](https://img.shields.io/badge/Instagram-opusxj__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/opusxj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-opusxj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/opusxj) [![Email](https://img.shields.io/badge/Email-opusxj%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:opusxj@gmail.com) [![Born Opus](https://img.shields.io/badge/Born_Opus-bornopus.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://bornopus.com) [![Personal Site](https://img.shields.io/badge/Personal_Site-johnborn.co.uk-FF7139?style=flat&logo=firefox&logoColor=white)](https://johnborn.co.uk)
 
 ## ( WHO AM I )
 
@@ -70,7 +70,17 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 ## ( WHAT I DO )
 
-🚧 _Under constructions..._
+#### Day Job:
+
+🛒 Full-time eCommerce, specialising in **Shopify**. Building, fixing, and fine-tuning stores so they look good and sell better.
+
+#### In Progress:
+
+Everything below lives under **[Born Opus](https://bornopus.com)**, the company my partner and I run together. It's the hub for all our projects.
+
+🧠 **LifeOS**. A life management system for the ADHD/OCD community. Currently building.<br/>
+👕 A slow-burn clothing brand idea. Alternative style, built on uniqueness and explorative styling. Quirky, weird, and fun.<br/>
+🎮 A game concept in the planning stages, destined for Steam. More on that when there's more to say.
 
 ## ( SIDE QUESTS )
 
