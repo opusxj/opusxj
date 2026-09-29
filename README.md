@@ -92,9 +92,14 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 📚 Wrote, but never published, a book called **The Creptor** at 11 years old.
 
 <p>
-  <img src="https://placehold.co/600x600/F5F5F5/666666?text=Photo+1" width="32%" alt="Placeholder photo 1" />
-  <img src="https://placehold.co/600x600/F5F5F5/666666?text=Photo+2" width="32%" alt="Placeholder photo 2" />
-  <img src="https://placehold.co/600x600/F5F5F5/666666?text=Photo+3" width="32%" alt="Placeholder photo 3" />
+  <img src="./images/photo-berlin.jpg" width="32%" alt="Berlin Cathedral and the TV Tower behind a hedge of autumn leaves" />
+  <img src="./images/photo-prague.jpg" width="32%" alt="St. Nicholas Church towers above market stalls in Prague's Old Town Square" />
+  <img src="./images/photo-japan.jpg" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
+</p>
+<p>
+  <img src="./images/photo-dunes.webp" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
+  <img src="./images/photo-cars.jpg" width="32%" alt="Silver cars stacked on top of each other against a clear blue sky" />
+  <img src="./images/photo-atrium.jpg" width="32%" alt="Looking up through a curved, multi-level shopping centre atrium with criss-crossing escalators" />
 </p>
 
 #### Random Skills:
