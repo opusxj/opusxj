@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#-who-am-i-">Who am I</a> · <a href="#-what-i-do-">What I do</a> · <a href="#-side-quests-">Side quests</a>
+</p>
+
 <h1>
   <img src="./images/cat-wave.gif" alt="" width="40" /> It's John. You found me.
 </h1>
@@ -20,7 +24,8 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 ## ( WHO AM I )
 
-#### The Favourites:
+<details>
+<summary><h4>The Favourites:</h4></summary>
 
 <table>
   <tr>
@@ -61,6 +66,8 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
   </tr>
 </table>
 
+</details>
+
 #### Random Facts:
 
 🔨 Foundationally trained in carpentry, electrics, and plumbing. I'd still rather hire a professional.<br/>
@@ -83,9 +90,9 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 🎮 A game concept in the planning stages, destined for Steam. More on that when there's more to say.
 
 <p>
-  <img src="./images/photo-berlin.jpg" width="32%" alt="Berlin Cathedral and the TV Tower behind a hedge of autumn leaves" />
-  <img src="./images/photo-prague.jpg" width="32%" alt="St. Nicholas Church towers above market stalls in Prague's Old Town Square" />
-  <img src="./images/photo-japan.jpg" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
+  <img src="./images/photo-berlin.jpg" title="Berlin Cathedral, Berlin" width="32%" alt="Berlin Cathedral and the TV Tower behind a hedge of autumn leaves" />
+  <img src="./images/photo-prague.jpg" title="St. Nicholas Church, Prague" width="32%" alt="St. Nicholas Church towers above market stalls in Prague's Old Town Square" />
+  <img src="./images/photo-japan.jpg" title="Evening rain, Japan" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
 </p>
 
 ## ( SIDE QUESTS )
@@ -98,9 +105,9 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 📚 Wrote, but never published, a book called **The Creptor** at 11 years old.
 
 <p>
-  <img src="./images/photo-dunes.webp" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
-  <img src="./images/photo-cars.jpg" width="32%" alt="Silver cars stacked on top of each other against a clear blue sky" />
-  <img src="./images/photo-atrium.jpg" width="32%" alt="Looking up through a curved, multi-level shopping centre atrium with criss-crossing escalators" />
+  <img src="./images/photo-dunes.webp" title="Sunset in the dunes" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
+  <img src="./images/photo-cars.jpg" title="Stacked cars" width="32%" alt="Silver cars stacked on top of each other against a clear blue sky" />
+  <img src="./images/photo-atrium.jpg" title="Atrium, looking up" width="32%" alt="Looking up through a curved, multi-level shopping centre atrium with criss-crossing escalators" />
 </p>
 
 #### Random Skills:
