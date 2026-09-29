@@ -109,7 +109,7 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 <p>
   <img src="./images/photo-dunes.webp" title="Sunset in the dunes, Netherlands" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
   <img src="./images/photo-cars.jpg" title="Stacked cars" width="32%" alt="Silver cars stacked on top of each other against a clear blue sky" />
-  <img src="./images/photo-atrium.jpg" title="Atrium, looking up" width="32%" alt="Looking up through a curved, multi-level shopping centre atrium with criss-crossing escalators" />
+  <img src="./images/photo-atrium.jpg" title="ICONSIAM, Bangkok" width="32%" alt="Looking up through the curved, multi-level atrium of ICONSIAM in Bangkok with criss-crossing escalators" />
 </p>
 
 #### Random Skills:
