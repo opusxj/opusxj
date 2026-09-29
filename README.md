@@ -117,6 +117,8 @@ Sometimes I try to practice different skills. Not to master, but to acknowledge 
 - [x] Mixing Music using a DAW
 - [x] Magic Tricks & Sleight of Hand Shuffles
 - [x] Steam Workshop Tooling _(currently learning)_
+- [x] Dutch _(currently learning)_
+- [ ] Game Development
 - [ ] Pick up Piano or Guitar
 
 ---
