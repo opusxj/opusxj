@@ -97,9 +97,9 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
   <img src="./images/photo-japan.jpg" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
 </p>
 <p>
-  <img src="https://placehold.co/600x800/F5F5F5/666666?text=Photo+4" width="32%" alt="Placeholder photo 4" />
-  <img src="https://placehold.co/600x800/F5F5F5/666666?text=Photo+5" width="32%" alt="Placeholder photo 5" />
-  <img src="https://placehold.co/600x800/F5F5F5/666666?text=Photo+6" width="32%" alt="Placeholder photo 6" />
+  <img src="./images/photo-dunes.webp" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
+  <img src="./images/photo-cars.jpg" width="32%" alt="Silver cars stacked on top of each other against a clear blue sky" />
+  <img src="./images/photo-atrium.jpg" width="32%" alt="Looking up through a curved, multi-level shopping centre atrium with criss-crossing escalators" />
 </p>
 
 #### Random Skills:
