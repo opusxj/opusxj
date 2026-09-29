@@ -22,6 +22,8 @@ Below is a bunch of random things about me, some connected, some not. Feel free 
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-opusxj-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/opusxj) [![Instagram](https://img.shields.io/badge/Instagram-opusxj__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/opusxj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-opusxj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/opusxj) [![Email](https://img.shields.io/badge/Email-opusxj%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:opusxj@gmail.com) [![Born Opus](https://img.shields.io/badge/Born_Opus-bornopus.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://bornopus.com) [![Personal Site](https://img.shields.io/badge/Personal_Site-johnborn.co.uk-FF7139?style=flat&logo=firefox&logoColor=white)](https://johnborn.co.uk)
 
+[![Follow](https://img.shields.io/github/followers/opusxj?label=Follow&style=flat&logo=github&color=181717)](https://github.com/opusxj) Also, hit follow. I'm a statistics-crazed person, and watching numbers go up is my cardio.
+
 ## ( WHO AM I )
 
 <details>
@@ -92,7 +94,7 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 <p>
   <img src="./images/photo-berlin.jpg" title="Berlin Cathedral, Berlin" width="32%" alt="Berlin Cathedral and the TV Tower behind a hedge of autumn leaves" />
   <img src="./images/photo-prague.jpg" title="St. Nicholas Church, Prague" width="32%" alt="St. Nicholas Church towers above market stalls in Prague's Old Town Square" />
-  <img src="./images/photo-japan.jpg" title="Evening rain, Japan" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
+  <img src="./images/photo-japan.jpg" title="Evening rain, Tokyo" width="32%" alt="Rainy Japanese shopping street lined with glowing lanterns and tangled power lines" />
 </p>
 
 ## ( SIDE QUESTS )
@@ -105,7 +107,7 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 📚 Wrote, but never published, a book called **The Creptor** at 11 years old.
 
 <p>
-  <img src="./images/photo-dunes.webp" title="Sunset in the dunes" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
+  <img src="./images/photo-dunes.webp" title="Sunset in the dunes, Netherlands" width="32%" alt="Grassy sand dunes running down to the sea at sunset" />
   <img src="./images/photo-cars.jpg" title="Stacked cars" width="32%" alt="Silver cars stacked on top of each other against a clear blue sky" />
   <img src="./images/photo-atrium.jpg" title="Atrium, looking up" width="32%" alt="Looking up through a curved, multi-level shopping centre atrium with criss-crossing escalators" />
 </p>
