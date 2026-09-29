@@ -114,8 +114,8 @@ Everything below lives under **[Born Opus](https://bornopus.com)**, the company 
 
 Sometimes I try to practice different skills. Not to master, but to acknowledge the art of learning, and understanding. Here's a few:
 
-- [x] Mixing Music using a DAW
-- [x] Magic Tricks & Sleight of Hand Shuffles
+- [x] ~~Mixing Music using a DAW~~
+- [x] ~~Magic Tricks & Sleight of Hand Shuffles~~
 - [x] Steam Workshop Tooling _(currently learning)_
 - [x] Dutch _(currently learning)_
 - [ ] Game Development
